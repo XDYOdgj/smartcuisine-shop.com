@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://smartcuisine-shop.com/sitemap.xml
